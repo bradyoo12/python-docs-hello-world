@@ -1,1 +1,6 @@
+azure-storage-blob
 Flask
+opencv-python-headless # https://stackoverflow.com/questions/64554615/import-cv2-error-when-deploying-in-azure-kubernetes-service-python
+# opencv-contrib-python==4.5.5.62
+# ultralytics # azure function app deploy doesn't seem to accept and cause an error
+# 
